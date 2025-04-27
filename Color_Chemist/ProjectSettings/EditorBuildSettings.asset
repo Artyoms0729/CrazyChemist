@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main Level.unity
+    guid: 4ad9d861804128b4290edba876d1bcf2
+  - enabled: 1
+    path: Assets/Scenes/How To Play.unity
+    guid: 9c5975357fd52ea4d956f23d97696993
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: d6d5910235358d6448c58a406c7757ff
+  - enabled: 1
+    path: Assets/Scenes/Color Key.unity
+    guid: 8afd78fbadb5f4b49a0973510c096646
   m_configObjects: {}
