@@ -1272,7 +1272,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 8764617078650794269}
         m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
-        m_MethodName: MainLevelScene
+        m_MethodName: LevelSelectScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

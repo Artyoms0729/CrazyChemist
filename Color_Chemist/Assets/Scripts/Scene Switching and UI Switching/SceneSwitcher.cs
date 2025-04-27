@@ -9,10 +9,29 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("Main Menu");
     }
-
-    public void MainLevelScene(string name)
+    public void LevelSelectScene(string name)
     {
-        SceneManager.LoadScene("Main Level");
+        SceneManager.LoadScene("Level Select");
+    }
+
+    public void Level1Scene(string name)
+    {
+        SceneManager.LoadScene("Level 1");
+    }
+
+    public void Level2Scene(string name)
+    {
+        SceneManager.LoadScene("Level 2");
+    }
+
+    public void Level3Scene(string name)
+    {
+        SceneManager.LoadScene("Level 3");
+    }
+
+    public void Level4Scene(string name)
+    {
+        SceneManager.LoadScene("Level 4");
     }
 
     public void HowToPlayScene(string name)
